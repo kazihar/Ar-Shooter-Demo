@@ -9,4 +9,4 @@
   4. Open APK that you installed and face the camera to the khabib.jpg.
   5. Shoot rigidbodies that has spawned in front of you using the shoot button.
   
- ### 
+ ### https://drive.google.com/open?id=1nqlNxamopqytxd3PYVRoewxyRnmQNiFb
